@@ -1,0 +1,19 @@
+body{
+    background-image: linear-gradient(to bottom right, green, blue, lightgreen, blue, teal);
+}
+#score{
+    font-size: 30px;
+    margin-left: 100px;
+}
+#timer{
+    font-size: 30px;
+    float:right;
+    margin-right: 100px;
+}
+#sketches{
+    color:red;
+    font-size: 30px;
+}
+p{
+    font-size:30px;
+}
